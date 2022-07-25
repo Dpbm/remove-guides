@@ -1,3 +1,5 @@
 .dccache
 .vscode
 .directory
+tests/
+qiskit-vscode-log.out
