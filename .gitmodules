@@ -1,0 +1,12 @@
+[submodule "ubuntu/remove-starship-ubuntu"]
+	path = ubuntu/remove-starship-ubuntu
+	url = https://github.com/Dpbm/remove-starship-ubuntu.git
+[submodule "ubuntu/remove-docker-ubuntu"]
+	path = ubuntu/remove-docker-ubuntu
+	url = https://github.com/Dpbm/remove-docker-ubuntu.git
+[submodule "ubuntu/remove-heroku-cli-ubuntu"]
+	path = ubuntu/remove-heroku-cli-ubuntu
+	url = https://github.com/Dpbm/remove-heroku-cli-ubuntu.git
+[submodule "ubuntu/remove-oh-my-zsh-ubuntu"]
+	path = ubuntu/remove-oh-my-zsh-ubuntu
+	url = https://github.com/Dpbm/remove-oh-my-zsh-ubuntu.git
